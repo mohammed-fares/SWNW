@@ -1,0 +1,6 @@
+{
+  "name": "SWNW",
+  "description": "منصة ومنظومة ربط ذكية تجمع المرضى بالصيدليات لتقديم عروض الأسعار التنافسية وبوابة تسويقية ممتازة تعتمد في الكسب على اشتراكات الصيدليات مجاناً للمريض",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
